@@ -1,0 +1,9 @@
+owner: badgercannon
+git-repo: charts
+repo: charts
+charts-dir: charts/*
+charts_repo_url: "https://deps.truecharts.org"
+SkipExisting: true
+skipExisting: true
+# Set to true for GPG signing
+sign: false
